@@ -30,7 +30,6 @@
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-javascript-a-high-level-interpreted-programming-language-logo-color-tal-revivo.png" alt="JavaScript" height="40"/>
 </p>
 
 ---

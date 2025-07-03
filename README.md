@@ -12,22 +12,26 @@
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"/>
+  </a>
+</p>
 ---
 
 ### 🛠️ Languages and Tools:
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" height="40"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL Server" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-javascript-a-high-level-interpreted-programming-language-logo-color-tal-revivo.png" alt="JavaScript" height="40"/>
+</p
 
 ---
 

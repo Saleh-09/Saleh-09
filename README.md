@@ -27,6 +27,7 @@
   <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" height="40"/>
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL Server" height="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-signalr-is-a-software-library-for-microsoft-aspnet-logo-color-tal-revivo.png"  alt="SignalR" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40"/>

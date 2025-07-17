@@ -23,7 +23,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=000000" alt="C#" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=55199&format=png&color=823085" alt="C#" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" height="40"/>
   <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL Server" height="40"/>

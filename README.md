@@ -3,7 +3,7 @@
 ### A passionate .NET Developer from Pakistan 🇵🇰
 
 - 💻 I’m currently developing applications using **ASP.NET MVC, Web API, and Windows Forms**
-- 📘 I'm learning **Azure Cloud Services** and **ML.NET**
+- 📘 I'm learning **Azure Cloud Services**
 - 🧠 Ask me about **.NET Development**, **Entity Framework**, or **SQL Server**
 - 📬 How to reach me: (saleharain03@gmail.com)
 - ⚡ Fun fact: _Beyond coding, you'll find me designing UI/UX, watching dev videos, or playing video games_

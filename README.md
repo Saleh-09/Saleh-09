@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=saleharain03&label=Profile%20views&color=0e75b6&style=flat)
+
 # Hi 👋 I'm Saleh Muhammad
 
 ### A passionate .NET Developer from Pakistan 🇵🇰
